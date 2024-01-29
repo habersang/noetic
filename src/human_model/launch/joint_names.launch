@@ -1,0 +1,5 @@
+<launch>
+  <rosparam file="$(find bvh_broadcaster)/scripts/config/joint_names.yaml" />
+
+  <node name="human_model_node" pkg="human_model" type="human_model_node" output="screen"/>
+</launch>

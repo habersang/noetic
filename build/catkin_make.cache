@@ -1,0 +1,2 @@
+bvh_broadcaster:human_model
+-DCATKIN_DEVEL_PREFIX=/home/habersang/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/habersang/ros_ws/install -G Unix Makefiles

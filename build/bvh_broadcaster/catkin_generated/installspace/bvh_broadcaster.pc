@@ -1,0 +1,8 @@
+prefix=/home/habersang/ros_ws/install
+
+Name: bvh_broadcaster
+Description: Description of bvh_broadcaster
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
