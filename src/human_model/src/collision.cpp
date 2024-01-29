@@ -21,7 +21,7 @@ int main(int argc, char **argv)
 
   // ROS spinning must be running for the MoveGroupInterface to get information
   // about the robot's state. One way to do this is to start an AsyncSpinner
-  // beforehand.
+  // beforehand.d 
   ros::AsyncSpinner spinner(1);
   spinner.start();
 
